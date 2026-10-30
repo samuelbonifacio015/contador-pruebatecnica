@@ -1,0 +1,14 @@
+.contador {
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.contador-numero {
+  font-size: 2em;
+  text-align: center;
+}
+
+.contador-texto {
+  font-size: 1.2em;
+  text-align: center;
+}
